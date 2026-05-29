@@ -128,3 +128,5 @@ Novastrap is built using **C# and .NET**.
 [repo-latest]:            https://github.com/voidstrap/Novastrap/releases/latest
 [repo-stargazers]:        https://github.com/voidstrap/Novastrap/stargazers
 [discord-invite]:         https://discord.gg/dfA9PdWgcV
+
+# Novastrap
